@@ -7,6 +7,8 @@ This project is a web-based tool that allows users to upload audio files, select
   A short audio clip used to demonstrate the transcription process.
 
 ### Sample Output
-- [`other.midi`](other_basic_pitch.mid)
 - [`other.scroe`](page_001.svg)
   MIDI file produced from the transcription.
+
+###Separate audio tracks
+- [`other.mp3`](other.mp3)
