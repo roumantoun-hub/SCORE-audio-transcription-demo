@@ -10,5 +10,5 @@ This project is a web-based tool that allows users to upload audio files, select
 - [`other.scroe`](page_001.svg)
   MIDI file produced from the transcription.
 
-###Separate audio tracks
+### Separate audio tracks
 - [`other.mp3`](other.mp3)
