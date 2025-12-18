@@ -3,7 +3,7 @@ This project is a web-based tool that allows users to upload audio files, select
 ## Sample Input and Output
 
 ### Sample Input
-- [`Cat Jump.wav`](Vinzenz-Cat-Jump.wav)  
+- [`Cat Jump.mp3`](Vinzenz-Cat-Jump.mp3)  
   A short audio clip used to demonstrate the transcription process.
 
 ### Sample Output
