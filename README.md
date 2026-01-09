@@ -12,3 +12,6 @@ This project is a web-based tool that allows users to upload audio files, select
 
 ### Separate audio tracks
 - [`other.mp3`](other.mp3)
+
+# Our contribution
+- [Contribution Table](Contribution.xlsx)
